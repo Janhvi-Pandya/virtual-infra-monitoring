@@ -1,0 +1,7 @@
+=== Virtual Machine Status ===
+%Cpu(s): 58.1 us, 38.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  3.2 si,  0.0 st
+
+               total        used        free      shared  buff/cache   available
+Mem:           12978         698        8111           1        4169       11971
+Swap:              0           0           0
+
